@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Info5420/Scenes/StreetViewAR.unity
+    guid: aa3937d65cd214303b526437cd035028
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 483332d9cbf574eb2a30467cefefb918, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: e9f554c93ffc346bb85d00954a64261a, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 80810854bd7e24800a84c30bf4f230be, type: 2}
